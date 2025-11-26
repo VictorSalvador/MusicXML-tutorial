@@ -16,33 +16,33 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P16aab0711f909cfd333c744d9138594d">
+    <score-part id="P0194f64a92a5305d28f3df0b427ca8fd">
       <part-name>Piano</part-name>
       <part-abbreviation>Pno</part-abbreviation>
-      <score-instrument id="I0a2a28f69d3392cb9d014054ce279c00">
+      <score-instrument id="I62f048a3962b86898e6a0cf4d7c7d216">
         <instrument-name>Piano</instrument-name>
         <instrument-abbreviation>Pno</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I0a2a28f69d3392cb9d014054ce279c00">
+      <midi-instrument id="I62f048a3962b86898e6a0cf4d7c7d216">
         <midi-channel>1</midi-channel>
         <midi-program>1</midi-program>
       </midi-instrument>
     </score-part>
-    <score-part id="Pe851b992e56cbeb8ebe4e9cabf507236">
+    <score-part id="Pd6202d057ea311e4eeafa14f36b15916">
       <part-name>Piano</part-name>
       <part-abbreviation>Pno</part-abbreviation>
-      <score-instrument id="I43980dec47f860e1b53d9a9ddfdc13e3">
+      <score-instrument id="If7e3726ab5225e0aff1e8bbbf06f56bc">
         <instrument-name>Piano</instrument-name>
         <instrument-abbreviation>Pno</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I43980dec47f860e1b53d9a9ddfdc13e3">
+      <midi-instrument id="If7e3726ab5225e0aff1e8bbbf06f56bc">
         <midi-channel>2</midi-channel>
         <midi-program>1</midi-program>
       </midi-instrument>
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P16aab0711f909cfd333c744d9138594d">
+  <part id="P0194f64a92a5305d28f3df0b427ca8fd">
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
       <attributes>
@@ -1540,7 +1540,7 @@
     </measure>
   </part>
   <!--=========================== Part 2 ===========================-->
-  <part id="Pe851b992e56cbeb8ebe4e9cabf507236">
+  <part id="Pd6202d057ea311e4eeafa14f36b15916">
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
       <attributes>
